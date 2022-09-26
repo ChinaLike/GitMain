@@ -1,0 +1,3 @@
+[submodule "GitSub"]
+	path = GitSub
+	url = https://github.com/ChinaLike/GitSub.git
